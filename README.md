@@ -1,1 +1,3 @@
-# FLASH---a-quizlet-clone
+# FLASH
+## a quizlet clone
+this web application is supposed to be similar to quizlet. inspired by its main functions, layout and ui...
